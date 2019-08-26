@@ -1,10 +1,10 @@
 ## Digital Filmmaking, Fall 2019
 #### August 27 - December 20, 2019 | Queens College
 
-  Arts 157 || Tuesday 6:00 - 9:50 pm || I Building 201
-	Professor: Rebecca Leopold
-	Email: Rebecca.Leopold@qc.cuny.edu
-	Course Wiki: https://github.com/rebleo/dgtlFlmmkngFall2019/wiki
+		Arts 157 || Tuesday 6:00 - 9:50 pm || I Building 201
+		Professor: Rebecca Leopold
+		Email: Rebecca.Leopold@qc.cuny.edu
+		Course Wiki: https://github.com/rebleo/dgtlFlmmkngFall2019/wiki
 
 #### Course Description:
 This class explores cinematic storytelling through digital film making. Through a variety of in class and homework assignments, this course introduces participants to a variety of video making techniques, vocabulary and tools while learning the basics of concept development, video capture and editing with Adobe Premiere. Students will learn the fundamentals of recording and editing, lighting, sound, camera work and other pre and post production methods.
